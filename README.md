@@ -1,1 +1,2 @@
-# Throwing-Trash
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
